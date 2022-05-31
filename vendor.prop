@@ -8,8 +8,8 @@ ro.vendor.oplus.camera.isSupportExplorer=0
 ro.vendor.oplus.camera.isHasselbladCamera=0
 
 # Graphics
-ro.surface_flinger.set_idle_timer_ms=250
-ro.surface_flinger.set_touch_timer_ms=300
+ro.surface_flinger.set_idle_timer_ms=4000
+ro.surface_flinger.set_touch_timer_ms=4000
 
 # Market
 ro.vendor.oplus.market.name=OnePlus 11 5G
