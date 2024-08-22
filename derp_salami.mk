@@ -14,7 +14,7 @@ $(call inherit-product, device/oneplus/salami/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/derp/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_salami
+PRODUCT_NAME := derp_salami
 PRODUCT_DEVICE := salami
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
